@@ -1,0 +1,9 @@
+[submodule "dokan-dotnet"]
+	path = dokan-dotnet
+	url = https://github.com/dokan-dev/dokan-dotnet.git
+[submodule "Shaman.Dokan.Archive"]
+	path = Shaman.Dokan.Archive
+	url = https://github.com/meee1/Shaman.Dokan.Archive.git
+[submodule "Shaman.Dokan.Base"]
+	path = Shaman.Dokan.Base
+	url = https://github.com/meee1/Shaman.Dokan.Base.git
