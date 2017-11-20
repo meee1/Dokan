@@ -7,3 +7,6 @@
 [submodule "Shaman.Dokan.Base"]
 	path = Shaman.Dokan.Base
 	url = https://github.com/meee1/Shaman.Dokan.Base.git
+[submodule "SevenZipSharp"]
+	path = SevenZipSharp
+	url = https://github.com/meee1/SevenZipSharp.git
