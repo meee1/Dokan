@@ -1,12 +1,16 @@
 [submodule "dokan-dotnet"]
 	path = dokan-dotnet
 	url = https://github.com/dokan-dev/dokan-dotnet.git
+	branch = master
 [submodule "Shaman.Dokan.Archive"]
 	path = Shaman.Dokan.Archive
 	url = https://github.com/meee1/Shaman.Dokan.Archive.git
+	branch = master
 [submodule "Shaman.Dokan.Base"]
 	path = Shaman.Dokan.Base
 	url = https://github.com/meee1/Shaman.Dokan.Base.git
+	branch = master
 [submodule "SevenZipSharp"]
 	path = SevenZipSharp
 	url = https://github.com/meee1/SevenZipSharp.git
+	branch = master
