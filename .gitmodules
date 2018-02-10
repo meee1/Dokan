@@ -14,3 +14,6 @@
 	path = SevenZipSharp
 	url = https://github.com/meee1/SevenZipSharp.git
 	branch = master
+[submodule "sharpcompress"]
+	path = sharpcompress
+	url = https://github.com/adamhathcock/sharpcompress.git
